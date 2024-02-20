@@ -17,4 +17,4 @@ def read_employees_from_file(path):
 
 
 
-read_employees_from_file('homework6_1.txt')
+read_employees_from_file('homework1.txt')
