@@ -1,3 +1,4 @@
+
 def read_employees_from_file(path): 
 
     fh = open(path,"w+")
